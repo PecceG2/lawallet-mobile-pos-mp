@@ -7,6 +7,9 @@ This project is a fork from [github.com/LaWallet.io/mobile-pos](https://github.c
 > ⚡ The repository only contains the web server code.
 > Under no circumstances may the User attempt to repair or otherwise tamper with the Reader.
 
+## Pictures
+![Pic1](pic1_1710586281293.jpg) ![Pic2](pic2_5129385711161.jpg)
+
 ## Getting Started
 
 First, run the development server:
