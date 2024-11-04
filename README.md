@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project is a fork from [github.com/LaWallet.io/mobile-pos](https://github.com/lawalletio/mobile-pos/) with the intention of adapting it to run locally on a MP POS, with the possibility of using the NFC reader and the thermal printer. 
+
+
+> [!IMPORTANT]
+> This project is not related to LaWallet.io, MercadoPago, or PAX Technology. The use of this project is the sole responsibility of whoever executes it.
+> Please remember that MP POS devices have usage conditions. This repository does not and will not contain private-use code, nor does it explain how to modify a device, as it violates its usage policies [MP Point TyC](https://www.mercadopago.com.ar/ayuda/terminos-condiciones-point_2772).
+> ⚡ The repository only contains the web server code.
+> Under no circumstances may the User attempt to repair or otherwise tamper with the Reader.
 
 ## Getting Started
 
